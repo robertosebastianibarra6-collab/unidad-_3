@@ -1,0 +1,5 @@
+1|Refresco|30|vebidas
+2|Tortillas|22|Comida
+3|Galletas|20|Comida
+4|Salsa|15|Comida
+5|Papitas|22|Comida
