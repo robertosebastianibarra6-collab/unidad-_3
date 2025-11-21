@@ -1,4 +1,4 @@
-1|Refresco|30|vebidas
+1|Refresco|30|Bebidas
 2|Tortillas|22|Comida
 3|Galletas|20|Comida
 4|Salsa|15|Comida
