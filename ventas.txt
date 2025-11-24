@@ -1,0 +1,5 @@
+Refresco|30.0|2|60.0
+Refresco|30.0|1|30.0
+Galletas|20.0|1|20.0
+Papitas|22.0|2|44.0
+Salsa|15.0|1|15.0
